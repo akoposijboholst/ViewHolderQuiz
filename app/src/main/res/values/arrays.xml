@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="movie_titles">
+        <item>Fifty Shades of Black</item>
+        <item>400 Days</item>
+        <item>The Revenant</item>
+        <item>Sherlock</item>
+        <item>Allegiant</item>
+        <item>The Little Prince</item>
+        <item>Finding Dory</item>
+        <item>Ghostbusters</item>
+        <item>Suicide Squad</item>
+        <item>Captain America: Civil War</item>
+    </string-array>
+
+    <string-array name="movie_genres">
+        <item>Comedy</item>
+        <item>Sci-Fi</item>
+        <item>Action</item>
+        <item>Drama</item>
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Family</item>
+        <item>Comedy</item>
+        <item>Adventure</item>
+        <item>Action</item>
+    </string-array>
+
+    <array name="movies_pictures">
+        <item>@drawable/fifty_shades</item>
+        <item>@drawable/days_400</item>
+        <item>@drawable/the_revenant</item>
+        <item>@drawable/sherlock</item>
+        <item>@drawable/allegiant</item>
+        <item>@drawable/the_little_prince</item>
+        <item>@drawable/finding_dory</item>
+        <item>@drawable/ghostbusters</item>
+        <item>@drawable/suicide_squad</item>
+        <item>@drawable/civil_war</item>
+    </array>
+
+
+</resources>
